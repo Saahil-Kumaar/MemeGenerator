@@ -28,11 +28,11 @@ Welcome to the Meme Generator Website! This documentation will guide you through
 
 1. Fork the repo
 
-2. Clone the repos 
+2. Clone the repo
 ```bash 
 git clone https://github.com/<your user name>/MemeGenerator.git
 ```
-3. Go the folder
+3. Go to the folder
 
 ```bash
   cd MemeGenerator
